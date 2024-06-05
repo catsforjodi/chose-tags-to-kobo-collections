@@ -17,7 +17,7 @@ rof
 
 It's just a `for` loop. Nothing special, but it took me a few hours to figure out what the template even did. I realize now I could have totally just returned `tag` instead of typing `'Historical Romance'` twice. Thanks to a helpful [MobileRead user](https://www.mobileread.com/forums/showpost.php?p=4412871&postcount=2962), I had a direction to go off of and they gave me multiple options! 
 
-Note: In Calibre, I have to mass add `Historical Romance` to every book I want to show under that tag in Collections, so that this `for` loop could filter out the books. That's pretty easier to do in Calibre. Just a lot of Shift-Clicks.
+Note: In Calibre, I have to mass add `Historical Romance` to every book I want to show under that tag in Collections, so that this `for` loop could filter out the books. That's pretty easy to do in Calibre. Just a lot of Shift-Clicks.
 
 __Now__ I want to add to the GUI a little textbox where one can list the tags they want to show up in Kobo Collections.
 
